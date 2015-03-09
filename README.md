@@ -1,2 +1,0 @@
-# TroySystem
-Sistema Troy
